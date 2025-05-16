@@ -17,7 +17,9 @@ BETA (Pre-Release {3 BETA 3}): https://github.com/Dencrn-Media/JewleahInstaller/
 # Full credit to these people for making JewleahInstaller possible
 Bionic Butter: https://github.com/Bionic-OSE
 <br>
-Julia (The official JewleahInstaller icon): https://www.youtube.com/@JuliasTechSpot https://www.youtube.com/@JuliasOutpost
+Julia (The official JewleahInstaller icon):
+https://github.com/jts101
+https://www.youtube.com/@JuliasTechSpot https://www.youtube.com/@JuliasOutpost
 <br>
 OpenAI (ChatGPT): https://chat.openai.com/
 <br>
