@@ -24,3 +24,5 @@ https://www.youtube.com/@JuliasTechSpot https://www.youtube.com/@JuliasOutpost
 OpenAI (ChatGPT): https://chat.openai.com/
 <br>
 Co-Pilot (Microsoft): https://copilot.microsoft.com/
+<br>
+Grok (X. Corp/Elon Musk): https://grok.com
