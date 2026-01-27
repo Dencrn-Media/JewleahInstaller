@@ -1,10 +1,13 @@
 # <img src="https://i.imgur.com/9WE3dV9.png" width="50" height="50"> JewleahInstaller
 Welcome to JewleahInstaller, created by Dencrn. Actively updated every 2-4 months with new features or bugfixes!
+> [!NOTE]
+> I am the only developer for JewleahInstaller. Roughly 85% of JewleahInstaller is vibe coded with AI tools such as ChatGPT, Grok, Google Gemini, etc. JewleahInstaller is created for fun, not to make a profit off it. I am not the best PowerShell developer in the world. 
+
 > [!WARNING]
-> Before running any version of JewleahInstaller, it is required to disable Windows Defender or else it will flag the exe as malware **(IT IS NOT MALWARE)**. The entire program has been created inside of either Command Prompt (version 1.0) or PowerShell ISE / Visual Studio Code (version 1.1 and later).
+> Before running any version of JewleahInstaller, it is required to disable Windows Defender or else it may or flag the exe as malware **(IT IS NOT MALWARE)**. The entire program has been created inside of either Command Prompt (version 1.0) or PowerShell ISE / Visual Studio Code (version 1.1 and later).
 
 > [!CAUTION]
-> I am not responsible for any damage made to your computer, run at your own risk.
+> I am not responsible for any damage made to your computer, please use this script at your own risk. It is recommended to run JewleahInstaller inside of a Virtual Machine (VMware, Virtual Box, Parallels, etc)
 
 ![JewleahInstaller Main Menu](https://i.imgur.com/tAFlwIZ.png)
 
