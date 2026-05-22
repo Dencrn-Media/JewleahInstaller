@@ -20,7 +20,7 @@ Welcome to JewleahInstaller, created by Dencrn. Actively updated every 2-4 month
 > Defender Control: https://www.sordum.org/9480/defender-control-v2-1/ <br>
 > AdvancedRun: https://www.nirsoft.net/utils/advancedrun-x64.zip <br>
 # Downloads
-STABLE (LATEST STABLE BUILD {3.0.2}): https://github.com/Dencrn-Media/JewleahInstaller/releases/download/3.0.2/JewleahInstallerV3.0.2.exe <br>
+STABLE (LATEST STABLE BUILD {3.0.3}): https://github.com/Dencrn-Media/JewleahInstaller/releases/download/3.0.3/JewleahInstallerV3.0.3.exe <br>
 BETA (Pre-Release {4 BETA 1}): https://github.com/Dencrn-Media/JewleahInstaller/releases/download/4.0BETA1/JewleahInstaller.4.BETA.1.exe
 
 # Full credit to these people for making JewleahInstaller possible
